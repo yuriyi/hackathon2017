@@ -10,7 +10,7 @@ June 2017 Paris & virtually
 # 'Seismic Shotgather Interpreter'
 Teamname = 'Classy'
 
-1. Generate fake seismic data with labels (direct energy, reflection, multiples, coherent noise)
+1. Generate synthetic seismic data with labels (direct energy, reflection, multiples, coherent noise)
 2. Train a classifier using SVM
 3. Generate Tests dataset
 4. Draw interpreted lines
